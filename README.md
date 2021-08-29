@@ -1,24 +1,13 @@
 # tweety
 
-## Project setup
-```
-npm install
+Twitter clone 🐦 build w/ VueJS, Golang & MongoDB
+
+## Setup
+
+```bash
+# TODO
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Author
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Pranjal Alone (pranjal@mkcl.org)
